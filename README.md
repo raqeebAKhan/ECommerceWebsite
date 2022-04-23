@@ -1,13 +1,12 @@
 # E-Commerce Website
 
-This News Letter website is a static and responsive website. It consists of Home, Services, Prices, Contact Us and About Us functionalities. Along with subscription feature. There are navigation links in footer of the website.
-
+This website is ECommerce website. It consists of About, Services, blogs, Contact Us functionalities. 
 ## Features
-* The Home contains brief headline about the website along with navigation bar containing navigation links.
+* Login authentcation in which user can login into the page or signup if user do not have account.
 * The Services contains the information of the services which are offered.
-* Prices consists of the pricing details of the services.
+* The user can give review or feedback for the service.
+* It contains the blog page.
 * Contact Us functionality allows the user to fill their information and queries in order to contact the website's admin.
-* About Us displays the option to subscribe to the website via email address so that the user can be notified when there is an updation or announcement of any offers. It also contains information about the website owner and navigation links.
 
 ## Technologies
 
