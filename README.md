@@ -5,9 +5,9 @@ It provides services to the customers wherein the users can buy products, they c
 
 ## Features
 * Login authentcation in which user can login into the page or signup if user do not have account.
-* The Services contains the information of the services which are offered.
-* The user can give review or feedback for the service.
-* It contains the blog page.
+* The Services contains the information of the products which are offered.
+* The user can give reviews or feedbacks about the products.
+* It consists of the blog page feature.
 * Contact Us functionality allows the user to fill their information and queries in order to contact the website's admin.
 
 ## Technologies
