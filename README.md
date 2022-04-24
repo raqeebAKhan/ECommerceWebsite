@@ -1,6 +1,8 @@
 # E-Commerce Website
 
-This website is ECommerce website. It consists of About, Services, blogs, Contact Us functionalities. 
+This website is ECommerce website. It consists of About, Services, blogs, Contact Us functionalities.
+It provides services to the customers wherein the users can buy products, they can contact and give reviews to them.
+
 ## Features
 * Login authentcation in which user can login into the page or signup if user do not have account.
 * The Services contains the information of the services which are offered.
